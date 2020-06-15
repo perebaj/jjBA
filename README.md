@@ -23,10 +23,10 @@ Análise jogos NBA, para implementação de uma maquina de regressão logística
 NBA_API: Api que recolhe as estatísticas no site da NBA
 ### Pastas: 
 
-jjBA/src/API_NBA
-  Utils.py: Funções úteis para o manejamento dos dados
-  regular_season19.py: Extração dos dados dos jogos tanto da pré-temporada como a temporada de 2019/20
+**jjBA/src/API_NBA**
+  * **Utils.py**: Funções úteis para o manejamento dos dados
+  * **regular_season19.py**: Extração dos dados dos jogos tanto da pré-temporada como a temporada de 2019/20
   
-jj/BA/Colab Analises
-  data_alanisys_NBA.ipynb: Análises e manipulação estatística das informações extraidas dos jogos para formulação do modelo supervisionado mais adequado.
-  classifier_methods.ipynb: Treinamentos dos classificadores e análise das acurácias
+**jjBA/Colab Analises**
+  * **data_alanisys_NBA.ipynb** : Análises e manipulação estatística das informações extraidas dos jogos para formulação do modelo supervisionado mais adequado.
+  * **classifier_methods.ipynb** : Treinamentos dos classificadores e análise das acurácias
